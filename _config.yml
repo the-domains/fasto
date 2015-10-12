@@ -1,6 +1,7 @@
 name: FASTO
 favicon: null
-layout_spectrum: 0.2512
+layout_spectrum: 0.2454
+typography_spectrum: 0.53864
 title: estates
 cta:
   domain: null
